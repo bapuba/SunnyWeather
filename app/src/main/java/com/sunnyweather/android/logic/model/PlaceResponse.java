@@ -8,7 +8,6 @@ public class PlaceResponse {
     String status;
     List<Place> places;
 
-
     public String getStatus() {
         return status;
     }
